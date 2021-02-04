@@ -75,10 +75,10 @@ qqq['Cum return'].plot(color='red')
 qqq['BB Strategy Cummulative Return'].plot(color='blue')
 plt.legend(['Buy and Hold','BB Strategy'])
 plt.show()
-
-# please see the executed code here:
-[Visit executed code](https://github.com/vadukia2/Projects-in-Python/blob/main/Bollinger%20Bonds%20strategy.ipynb"LCO")
 ```
+**Please see the executed code here:**
+[Visit executed code](https://github.com/vadukia2/Projects-in-Python/blob/main/Bollinger%20Bonds%20strategy.ipynb"LCO")
+
 
 ###### **Purpose of the code**
 The Code compares the performance of Bollingers Bands strategy with the Buy and hold strategy on Nasdaq's (QQQ) stock price.  
