@@ -1,5 +1,5 @@
-# **Projects-in-Python - Bollinger Bands Strategy**
-This repository shocases some of the code i have written in Python language
+# **Projects-in-Python - Bollinger Bands Strategy**T
+his repository showcases some of the code I have written in the Python language
 
 ##  Discription
 
