@@ -47,7 +47,7 @@ strategy('AAPL',42,252)
 
 ```
 **Please see the executed code here:**
-[Visit executed code](https://github.com/vadukia2/Projects-in-Python/blob/main/Bollinger%20Bonds%20strategy.ipynb)
+[Visit executed code](https://github.com/vadukia2/Projects-in-Python/blob/main/Moving%20Average%20Strategy.md)
 
 
 ###### **Purpose of the code**
