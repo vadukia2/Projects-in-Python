@@ -1,7 +1,7 @@
 # **Projects-in-Python - Moving Average Strtegy**
 This repository shocases some of the code i have written in Python language
 
-##  Discription
+##  Description
 Whats are Moving Averages? 
 -A moving average is a technical analysis technique that smooths price data by calculating a
  constantly updated average price.
