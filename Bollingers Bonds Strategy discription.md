@@ -77,7 +77,7 @@ plt.legend(['Buy and Hold','BB Strategy'])
 plt.show()
 ```
 **Please see the executed code here:**
-[Visit executed code](https://github.com/vadukia2/Projects-in-Python/blob/main/Bollinger%20Bonds%20strategy.ipynb)
+[Visit executed code](https://github.com/vadukia2/Projects-in-Python/blob/main/Bollinger%20Bands%20Project.ipynb)
 
 
 ###### **Purpose of the code**
