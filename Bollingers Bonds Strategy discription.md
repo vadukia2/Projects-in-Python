@@ -1,10 +1,10 @@
 # **Projects-in-Python - Bollinger Bands Strategy**
 This repository showcases some of the code I have written in the Python language
 
-##  Discription
+##  Description
 
-What are Bollingers Bands? 
-Bollinger Bands are one of the many indicator tools used in Visual Analysis. Created in the 1980s by John Bollinger, the purpose of the bands is to define high and low prices in the market. High prices are represented by the upper band and low prices by the lower band. The middle band acts as a simple moving average between the two other bands. When the bands are analyzed, they aids in pattern recognition as well as price action comparison which can be viewed simultaneously with other indicators to come to a conclusion.
+What are Bollinger Bands? 
+Bollinger Bands are one of the many indicator tools used in Visual Analysis. Created in the 1980s by John Bollinger, the purpose of the bands is to define high and low prices in the market. High prices are represented by the upper band and low prices by the lower band. The middle band acts as a simple moving average between the two other bands. When the bands are analyzed, they aid in pattern recognition as well as price action comparison which can be viewed simultaneously with other indicators to conclude.
 
 ### **Strategy implemented in this project**
 
@@ -16,7 +16,7 @@ As per Bollinger Bands strategy:
 -When the stock price is between the 20-day moving average and the lower band, we sell the stock.
 
 #### **Motivation**
-To test different strategy applied by investors in the stock markets and compare their performance. 
+To test different strategies applied by investors in the stock markets and compare their performance. 
 
 
 ##### **Code**
@@ -81,7 +81,7 @@ plt.show()
 
 
 ###### **Purpose of the code**
-The Code compares the performance of Bollingers Bands strategy with the Buy and holds strategy on Nasdaq's (QQQ) stock price.    
+The Code compares the performance of Bollingers Bands' strategy with the Buy and holds strategy on Nasdaq's (QQQ) stock price.    
 
 
 ####### **Conclusion**
