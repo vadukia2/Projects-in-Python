@@ -1,19 +1,19 @@
-# **Projects-in-Python - Moving Average Strtegy**
-This repository showcases some of the code i have written in Python language
+# **Projects-in-Python - Moving Average Strategy**
+This repository showcases some of the code I have written in the Python language
 
 ##  Description
 Whats are Moving Averages? 
 -A moving average is a technical analysis technique that smooths price data by calculating a
  constantly updated average price.
-A crossover is the most basic type of signal for trading. This crossover represents a change in momentum and can be used as a point of making the decision to enter or exit the market.
+A crossover is the most basic type of signal for trading. This crossover represents a change in momentum and can be used as a point of deciding to enter or exit the market.
 
 **Two forms of crossover**
--The simplest form of a crossover is when the price of an asset moves from one side of a moving  average to the other.
+-The simplest form of a crossover is when the price of an asset moves from one side of a moving average to the other.
 -A second type of crossover, referred to as a dual moving average crossover, occurs when a short-term average crosses a long-term average.
 
 **Buy and sell signals**
 A buy signal is generated when the short-term average crosses the long-term average and rises  above it
-A sell signal is triggered by a short-term average crossing long-term average and falling below it.
+A sell signal is triggered by a short-term average crossing the long-term average and falling below it.
 
 
 
